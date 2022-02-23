@@ -2,7 +2,7 @@
 It takes an integer as an input and prints it square.
 
 ## Installation
-```pip install saral-square```
+```pip install Topsis-Sanat-101903326```
 
 ## How to use it?
 Open terminal and type square and then input the integer
