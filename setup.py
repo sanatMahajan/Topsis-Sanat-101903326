@@ -26,4 +26,9 @@ setup(
     ],
     packages=["Topsis-Sanat-101903326"],
     install_requires=['pandas'],
+    entry_points={
+        "console_scripts": [
+            "Topsis=Topsis-Sanat-101903326.topsis",
+        ]
+    },
 )
